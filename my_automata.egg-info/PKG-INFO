@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: my_automata
+Version: 1.0.0
+Summary: Implementation of DFA and Turing Machine
+Author: lamia fekry
+Dynamic: author
+Dynamic: summary
