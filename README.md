@@ -86,6 +86,6 @@ Installing collected packages: my_automata
     Uninstalling my_automata-1.0.0:
       Successfully uninstalled my_automata-1.0.0
 Successfully installed my_automata-1.0.0 -->
-_____________________________________________________________________________________________________________________________
+________________________________________________________________________________________
 
-__
+![run of interative and testing](./images/theory.PNG)
