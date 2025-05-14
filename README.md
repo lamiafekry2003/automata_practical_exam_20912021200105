@@ -1,8 +1,8 @@
-# Section: 5
+# Section Number : 5
 
-# Name: Lamia Fekry Mohamed
+# Section Name: Theory of Computations
 
-## ID:20912021200105
+## ID: 4526
 _________________________________________________________________________________
 
 ## This project implements a Python package `my_automata`.
